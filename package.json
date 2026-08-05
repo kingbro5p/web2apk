@@ -1,0 +1,9 @@
+{
+  "name": "web2apk",
+  "version": "1.0.0",
+  "private": true,
+  "description": "\u0993\u09df\u09c7\u09ac\u09b8\u09be\u0987\u099f URL \u09a5\u09c7\u0995\u09c7 \u09b8\u09a4\u09cd\u09af\u09bf\u0995\u09be\u09b0\u09c7\u09b0 Android APK \u09ac\u09bf\u09b2\u09cd\u09a1 \u0995\u09b0\u09be\u09b0 \u099f\u09c1\u09b2 \u2014 GitHub Actions + Vercel",
+  "engines": {
+    "node": "20.x"
+  }
+}
